@@ -1,0 +1,13 @@
+对于音乐文件，您需要自己创建 assets/music 文件夹并添加音乐文件。结构如下：
+love-diary/
+├── assets/
+│   └── music/
+│       ├── music1.mp3    // 温柔的风
+│       ├── music2.mp3    // 浪漫时光
+│       └── music3.mp3    // 甜蜜回忆
+您可以：
+手动创建 assets/music 文件夹
+添加您喜欢的音乐文件
+将文件重命名为 music1.mp3、music2.mp3、music3.mp3
+或者修改 settings.html 中的音乐选项以匹配您的音乐文件名
+如果您需要示例音乐文件，我可以推荐一些适合的背景音乐，或者您可以使用自己喜欢的音乐文件。要我推荐一些音乐吗？
